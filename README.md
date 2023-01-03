@@ -59,3 +59,8 @@ make run MAP=<path to map>
 You can use one of the preset maps in ```./resources/maps```, or you could even make a map of your own!
 
 Game on! :)
+
+## Final note
+If you're a 42 student struggling to understand this project, I got your back! Please refer to this Notion page that I wrote covering the general concepts related to this project! It's in Portuguese :cactus:
+
+> [Acelera — Born2BeRoot](https://rodsmade.notion.site/Acelera-Born2BeRoot-99adac7a7bdc4bbf81b4eaf977625d5c)
