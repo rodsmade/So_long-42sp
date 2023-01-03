@@ -63,4 +63,4 @@ Game on! :)
 ## Final note
 If you're a 42 student struggling to understand this project, I got your back! Please refer to this Notion page that I wrote covering the general concepts related to this project! It's in Portuguese :cactus:
 
-> [Acelera — Born2BeRoot](https://rodsmade.notion.site/Acelera-Born2BeRoot-99adac7a7bdc4bbf81b4eaf977625d5c)
+> [Acelera — So_long](https://www.notion.so/rodsmade/Acelera-So_long-e5caded24d7b434aa1cb5daf73636fb9)
